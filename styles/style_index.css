@@ -23,6 +23,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
 }
 
 /* First image (Logo. Full height) /Web-Portafolio/img/banner.jpg */
