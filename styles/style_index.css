@@ -34,13 +34,13 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url(../img/la%20punta.jpg);
+  background-image: url(../img/la-punta.jpg);
   min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url(../img/plaza%20mayor.jpg);
+  background-image: url(../img/plaza-mayor.jpg);
   min-height: 400px;
 }
 
